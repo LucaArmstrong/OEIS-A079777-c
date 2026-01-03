@@ -1,4 +1,4 @@
-# OEIS-A079777
+# OEIS-A079777-c
 
 This repository contains C implementations related to OEIS sequence
 [A079777](https://oeis.org/A079777).
